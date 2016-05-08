@@ -9,11 +9,13 @@ Got a Raspberry Pi handy? Let's set it up!
     * Set a new password for the `pi` user
     * Finish, reboot
 3. Install dependencies  
+
     ```
     sudo apt-get update
     sudo apt-get upgrade -y
     sudo apt-get install -y screen git ufw fail2ban unattended-upgrades
     ```
+
 4. Clone repository  
     ```
     mkdir /usr/local/smalldata
