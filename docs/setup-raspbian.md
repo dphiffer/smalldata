@@ -8,12 +8,11 @@ Got a Raspberry Pi handy? Let's set it up!
     * Set the internationalization locale (in my case: `en-US / UTF-8`), timezone, etc.
     * Set a new password for the `pi` user
     * Finish, reboot
-3. Install dependencies  
+3. Install git  
 
     ```
     sudo apt-get update
-    sudo apt-get upgrade -y
-    sudo apt-get install -y screen git ufw fail2ban unattended-upgrades autossh
+    sudo apt-get install -y git
     ```
 
 4. Clone repository  
