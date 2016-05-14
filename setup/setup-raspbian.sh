@@ -1,14 +1,16 @@
 #!/bin/sh
 
-NGROK_DOWNLOAD_URL="https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip"
+if [ -z "$1" ] ; then
+	echo "Usage: setup-raspbian.sh [hostname]"
+	exit 1
+fi
+
+host="$1"
+echo "Setting up host $1"
 
 sudo apt-get update
 sudo apt-get upgrade -y
-sudo apt-get install -y screen git ufw fail2ban unattended-upgrades
+sudo apt-get install -y screen git ufw fail2ban unattended-upgrades autossh
 
-cd /usr/local/smalldata/bin
-curl -O $NGROK_DOWNLOAD_URL
-unzip ngrok-stable-linux-arm.zip
-rm ngrok-stable-linux-arm.zip
-
-cd -
+sudo echo $1 > /etc/hostname
+sudo sed -i "s/raspberrypi/$1/g" /etc/hosts

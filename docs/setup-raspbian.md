@@ -13,7 +13,7 @@ Got a Raspberry Pi handy? Let's set it up!
     ```
     sudo apt-get update
     sudo apt-get upgrade -y
-    sudo apt-get install -y screen git ufw fail2ban unattended-upgrades
+    sudo apt-get install -y screen git ufw fail2ban unattended-upgrades autossh
     ```
 
 4. Clone repository  
