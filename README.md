@@ -19,9 +19,9 @@ See also: [smalldata.coop](https://smalldata.coop/)
 |  Aww yiss.     |              |  want public.  |     ((________))
 |                |              |                |          |
 +----------------+              +----------------+          |
-							  |
-“Oh hey, there                 “I can see your            |
- is my data on                  awesome website  <--------+
+                                                            |
+“Oh hey, there                 “I can see your              |
+ is my data on                  awesome website  <----------+
  my own device”                 from here!”
      ~o/                               o
      /|                               -|/
