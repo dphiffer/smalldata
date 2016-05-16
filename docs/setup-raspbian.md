@@ -18,9 +18,10 @@ Got a Raspberry Pi handy? Let's set it up!
 4. Clone repository  
 
     ```
-    mkdir /usr/local/smalldata
+    sudo mkdir /usr/local/smalldata
     cd /usr/local/smalldata
-    git clone https://github.com/dphiffer/smalldata.git
+    sudo chown pi:pi .
+    git clone https://github.com/dphiffer/smalldata.git .
     ```
 
 5. Run setup script  
