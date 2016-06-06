@@ -3,11 +3,11 @@
 
 ## Article I PURPOSE
 
-The Corporation is formed for the purpose of increasing the access of its members to affordable, healthy, and responsibly produced food and other agricultural, household, and personal care products. The Corporation operates according to cooperative principals, wherein each member receives only one vote. The Corporation is founded under the New York State Cooperative Corporations Law.
+The Corporation is formed for the purpose of increasing the access of its members to affordable, secure, and well maintained hosting services as well as a social media platform designed to put the interests of its users first. The Corporation operates according to cooperative principals, wherein each member receives only one vote. The Corporation is founded under the New York State Cooperative Corporations Law.
 
 ## Article II MEMBERS
 
-Section 1. Membership. Any person aged 18 or older can apply to be a member of the Corporation. Members shall be required to sign a membership agreement, and agree to comply with the Membership Requirements as adopted by the Board and the Membership.
+Section 1. Membership. Any person aged 13 or older can apply to be a member of the Corporation. Members shall be required to sign a membership agreement, and agree to comply with the Membership Requirements as adopted by the Board and the Membership.
 
 Section 2. Termination of Membership. Members may voluntarily resign their membership at any time. Any membership fee paid is non-refundable. Members may be suspended from the Corporation for failure to comply with the membership requirements, and will remain suspended until in compliance. Members may also be terminated for gross misconduct by a two-thirds vote of the Board.
 
@@ -15,7 +15,7 @@ Section 3. Voting. Members must be in good standing, as defined by the Membershi
 
 ## Article III MEETINGS
 
-Section 1. Four general meetings will be held per year, to be the second Monday of April, July, October, and January. In the case of a meeting falling on a holiday, the General meeting will be held on the Monday following. Members may pass resolutions or adopt policies directly if a quorum is met at a meeting.
+Section 1. Four general meetings will be held per year, to be the second Monday of July, October, January, and April. In the case of a meeting falling on a holiday, the General meeting will be held on the Monday following. Members may pass resolutions or adopt policies directly if a quorum is met at a meeting.
 
 Section 2. The Board will meet on a periodic basis. When possible, Board meetings will be directly following the General Meeting; however, the Board may choose to meet at another time and place. Board meetings may be held through electronic or telephone communication systems. Board meetings will be open to members, and if held outside of General Meetings, shall be announced to the general membership 24 hours in advance. Minutes of all Board, General, and Annual meetings will be available to the membership.
 
@@ -35,7 +35,7 @@ Section 1. Overview. The Corporation shall have a Board of Directors (the “Boa
 
 Section 2. Term. Each Board Member will serve a Three-year term. A Board Member may resign at any time by delivering a written letter of resignation to the Board.
 
-Section 3. Responsibilities and Duties. The Board’s Responsibilities, as a primary function of its accountability to the Membership, are to manage the business and affairs of the Corporation. Such Responsibilities shall reside exclusively in the Board as a deliberative body, however the Board may delegate Responsibilities to individual Officers in conjunction with the procedures outlined in Article V. The Duties of the Board shall include, but not be limited to, oversight of the Corporation’s operations and a fiduciary obligation for its financial health, engaging staff, and ensuring that the Purpose of the Corporation is carried out. The Board shall carry out its own Responsibilities and Duties in conjunction with any official Bushwick Food Coop policies and procedures.
+Section 3. Responsibilities and Duties. The Board’s Responsibilities, as a primary function of its accountability to the Membership, are to manage the business and affairs of the Corporation. Such Responsibilities shall reside exclusively in the Board as a deliberative body, however the Board may delegate Responsibilities to individual Officers in conjunction with the procedures outlined in Article V. The Duties of the Board shall include, but not be limited to, oversight of the Corporation’s operations and a fiduciary obligation for its financial health, engaging staff, and ensuring that the Purpose of the Corporation is carried out. The Board shall carry out its own Responsibilities and Duties in conjunction with any official Small Data Coop policies and procedures.
 
 Section 4. Removal and Charges Against Directors. Any Member may bring charges against a Director by filing such charges in writing with the Secretary, together with a petition signed by at least five percent (5%) of the Members entitled to vote, requesting removal. The Board may thereupon remove the Director by the affirmative vote of three-fourths (3/4) of the Members voting thereon at a meeting promptly held after due notice in writing, which shall be no less than 10 days, and no more than 40 days, from deliverance of the notice.
 
@@ -43,7 +43,7 @@ Section 5. Vacancies. In the case of a vacancy in the Board of Directors, the Me
 
 Section 6. Quorum. A Quorum of Board Members shall be one half (1/2) of the current board members, except if the number of Board Members should fall to less than five, in which case a Quorum is 100 percent of Board Members.
 
-Section 7. Indemnifications. The Bushwick Food Cooperative, Inc. shall indemnify and hold harmless any individual who has served or who is serving as an Officer or Board member against claims or liabilities arising from such service, and shall reasonably reimburse expenses incurred in defending against such claims or liabilities, provided they do not arise from negligence or willful misconduct of the Officer or Board member.
+Section 7. Indemnifications. Small Data Coop shall indemnify and hold harmless any individual who has served or who is serving as an Officer or Board member against claims or liabilities arising from such service, and shall reasonably reimburse expenses incurred in defending against such claims or liabilities, provided they do not arise from negligence or willful misconduct of the Officer or Board member.
 
 Section 8. Regularity of Meeting. At minimum, the Board shall meet quarterly; with one of such quarterly meetings directly following the annual meeting of the Membership (the “Annual Meeting of the Board”).
 
@@ -61,7 +61,7 @@ Section 4. Vacancies. In case of any vacancy in any office, a successor to fill 
 
 Section 5. Resignation. Any Officer may resign from office at any time. Resignation shall be made in writing and delivered to the Board.
 
-Section 6. Operations. The Board and Membership recognize that the operation of the Corporation may require additional committees or staff. The Board shall facilitate the formation and oversight of standing and special committees, in order to ensure the appropriate means to carry out the Purpose of the Corporation. The operational positions shall follow terms set by the Membership and the Board, in accordance with any official Bushwick Food Coop policies and procedures.
+Section 6. Operations. The Board and Membership recognize that the operation of the Corporation may require additional committees or staff. The Board shall facilitate the formation and oversight of standing and special committees, in order to ensure the appropriate means to carry out the Purpose of the Corporation. The operational positions shall follow terms set by the Membership and the Board, in accordance with any official Small Data Coop policies and procedures.
 
 ## ARTICLE VI FISCAL YEAR
 
