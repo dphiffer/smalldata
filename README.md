@@ -1,8 +1,8 @@
 # Small Data
 
-See also: [smalldata.coop](https://smalldata.coop/)
+A member-owned data cooperative; let's build a better platform!
 
-## How does it work?
+## Host your own data
 
 ```
   At your place                   At Dan's place
