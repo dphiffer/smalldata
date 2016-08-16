@@ -38,3 +38,5 @@ Here is a diagram that may help illustrate how this might actually work:
      / \                              / \
      you                           your friend
 ```
+
+See also: [Smol Msg Svc (SMS chat)](https://github.com/dphiffer/smol-msg-svc)
